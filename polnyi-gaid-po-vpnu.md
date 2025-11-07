@@ -1,12 +1,4 @@
----
-# yaml-language-server: $schema=schemas\page.schema.json
-Object type:
-    - Page
-Creation date: "2025-11-07T16:26:13Z"
-Created by:
-    - Pelmeshkin
-id: bafyreie37vna6rn3nwndkz3ftqj6utpvixldfp7c325evhxzthmtlrrd3i
----
+
 # Полный гайд по впну   
 # 1 — Начальное добавление
    
